@@ -1,1 +1,3 @@
-# 21-Days-SQL-Challenge-Beginner-Advanced-
+# 21 Days SQL Challenge
+
+@DPDzero @indiandataclub #SQLWithIDC 
